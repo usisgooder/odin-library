@@ -74,6 +74,10 @@
     background-color: green;
   }
 
+  .not-read {
+    background-color: darkgoldenrod;
+  }
+
   .card {
       height: 350px;
       width: 290px;
